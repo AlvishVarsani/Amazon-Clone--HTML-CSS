@@ -7,6 +7,9 @@ This project involves:
 Understanding HTML Structure: Building a well-organized HTML document, utilizing semantic tags, and creating a layout that resembles the Amazon homepage.
 Styling with CSS: Applying CSS to style the webpage, creating a responsive design that works on various devices, and mastering advanced CSS techniques such as Flexbox and Grid.
 Responsive Design: Ensuring the Amazon clone is fully responsive and user-friendly across different screen sizes and devices.
+## Screenshot of Project
+![Screenshot 2024-06-18 104720](https://github.com/AlvishVarsani/Amazon-Clone--HTML-CSS/assets/112803697/28552c96-01f7-4565-a609-2bcdf321f214)
+
 
 ## Features
 Header: Create a header with a navigation menu, logo, and search bar.
